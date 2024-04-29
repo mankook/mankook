@@ -1,5 +1,5 @@
-site_name: 'Read The Docs Jekyll Theme'
-site_description: 'Port of the Read the Docs theme to Jekyll to use with GitHub Pages.'
+site_name: '기초에서 AI자동화까지'
+site_description: '창의력을 구성하는 힘까지.'
 repo_url: 'https://github.com/carlosperate/jekyll-theme-rtd'
 repo_name: 'GitHub'
 docs_dir: 'docs/'
