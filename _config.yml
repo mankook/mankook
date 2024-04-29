@@ -1,5 +1,5 @@
-title: Read The Docs Jekyll Theme
-description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+title: 기초에서 AI 자동화까지 이해하기
+description: 6개월 과정을 순서적으로 이해할 수 있도록 과정을 정리
 
 # Development server config, needed to load some of the content
 webrick:
@@ -7,7 +7,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 
 # Theme settings
-site_author: Carlos Pereira Atencio
+site_author: Jonho Kim 
 repo_url: 'https://github.com/carlosperate/jekyll-theme-rtd'
 edit_on_github: true
 github_docs_folder: false
